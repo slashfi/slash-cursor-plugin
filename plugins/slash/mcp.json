@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "slash": {
+      "url": "https://api.slash.com/mcp/v2",
+      "auth": {
+        "CLIENT_ID": "dev_app_1xj6nrp6qm6s2"
+      }
+    }
+  }
+}

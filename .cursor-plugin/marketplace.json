@@ -1,0 +1,18 @@
+{
+  "name": "slash",
+  "owner": {
+    "name": "Slash",
+    "email": "support@slash.com"
+  },
+  "metadata": {
+    "description": "Official Slash plugins for Cursor",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "slash",
+      "source": "./plugins/slash",
+      "description": "Manage Slash accounts, transactions, invoices, bills and transfers from Cursor."
+    }
+  ]
+}

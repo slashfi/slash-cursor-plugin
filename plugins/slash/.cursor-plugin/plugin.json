@@ -1,0 +1,15 @@
+{
+  "name": "slash",
+  "displayName": "Slash",
+  "version": "1.0.0",
+  "description": "Manage Slash accounts, transactions, invoices, bills and transfers from Cursor.",
+  "author": {
+    "name": "Slash",
+    "email": "support@slash.com"
+  },
+  "homepage": "https://slash.com",
+  "repository": "https://github.com/slashfi/slash-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["slash", "banking", "payments", "finance", "invoices", "mcp"],
+  "logo": "assets/logo.svg"
+}
